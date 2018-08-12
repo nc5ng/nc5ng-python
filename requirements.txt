@@ -1,0 +1,1 @@
+git+git://github.com/nc5ng/nc5ng-python-common@develop/0.0.4
