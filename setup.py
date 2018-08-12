@@ -18,8 +18,8 @@ For Documentation See: https://py.docs.nc5ng.org
     'url':"https://nc5ng.org/projects/nc5ng-python",
     'download_url':"https://github.com/nc5ng/nc5ng-python",
     'install_requires':[
-        'nc5ng-core==0.0.4',
-        'nc5ng-common==0.0.4'
+        'nc5ng-core >=0.0.4',
+        'nc5ng-common >=0.0.4'
         ],
     'license':"MIT"
 }
