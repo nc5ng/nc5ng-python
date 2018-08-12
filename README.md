@@ -1,5 +1,6 @@
 # nc5ng-python
 
+![Documentation Status](http://py.docs.nc5ng.org/badge)
 
 Python Libary for Datum Transformations on NGS `NADCON5.0` Data
 
@@ -13,7 +14,7 @@ Install with
 
 ## Documentation
 
-[Docs](https://nc5ng.readthedocs.io/)
+[Docs](https://py.docs.nc5ng.org/)
 [Project Page](https://www.nc5ng.org/projects/nc5ng-python)
 
 
