@@ -1,6 +1,5 @@
-
-
-`nc5ng.gmt` package reference
+=============================
+`nc5ng.gmt` Package Reference
 =============================
 
 

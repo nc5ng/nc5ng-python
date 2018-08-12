@@ -9,10 +9,11 @@ Welcome to nc5ng's documentation!
 .. toctree::
    :maxdepth: 2
 
+   installing
+   nc5ng-nc5data
    nc5ng-gmt
+   nc5ng-types
 
-			 
-	     
 
 Indices and tables
 ==================
