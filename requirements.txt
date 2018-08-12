@@ -1,3 +1,1 @@
 numpy
-nc5ng-common
-nc5ng-core
