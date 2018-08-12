@@ -19,9 +19,10 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'nc5ng'
+project = 'nc5ng-python'
 copyright = '2018, Andrey Shmakov, nc5ng.org'
 author = 'Andrey Shmakov'
+publisher = 'nc5ng.org'
 
 # The short X.Y version
 version = ''
@@ -137,7 +138,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'nc5ng.tex', 'nc5ng Documentation',
+    (master_doc, 'nc5ng-python.tex', 'nc5ng-python Documentation',
      'Andrey Shmakov', 'manual'),
 ]
 
@@ -147,7 +148,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'nc5ng', 'nc5ng Documentation',
+    (master_doc, 'nc5ng-python', 'nc5ng-python Documentation',
      [author], 1)
 ]
 
@@ -158,8 +159,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'nc5ng', 'nc5ng Documentation',
-     author, 'nc5ng', 'One line description of project.',
+    (master_doc, 'nc5ng-python', 'nc5ng-python Documentation',
+     author, 'nc5ng-python', 'One line description of project.',
      'Miscellaneous'),
 ]
 
@@ -169,7 +170,7 @@ texinfo_documents = [
 # Bibliographic Dublin Core info.
 epub_title = project
 epub_author = author
-epub_publisher = author
+epub_publisher = publisher
 epub_copyright = copyright
 
 # The unique identifier of the text. This can be a ISBN number
@@ -195,4 +196,4 @@ intersphinx_mapping = {'https://docs.python.org/': None}
 # -- Options for todo extension ----------------------------------------------
 
 # If true, `todo` and `todoList` produce output, else they produce nothing.
-todo_include_todos = True
+todo_include_todos = False
